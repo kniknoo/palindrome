@@ -1,0 +1,9 @@
+name: palindrome
+version: 0.1.0
+
+authors:
+  - Nicholas Rake <penguin@hierobots.tech>
+
+crystal: 0.29.0
+
+license: MIT
