@@ -9,7 +9,7 @@ TODO: Write a description here
    ```yaml
    dependencies:
      palindrome:
-       github: your-github-user/palindrome
+       github: kniknoo/palindrome
    ```
 
 2. Run `shards install`
