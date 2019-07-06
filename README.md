@@ -36,4 +36,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Nicholas Rake](https://github.com/your-github-user) - creator and maintainer
+- [Nicholas Rake](https://github.com/kniknoo) - creator and maintainer
